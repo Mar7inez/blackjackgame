@@ -1,5 +1,5 @@
 # blackjackgame
-Black Jack game -> Link https://mar7inez.github.io/blackjackgame/
+Deploy -> https://mar7inez.github.io/blackjackgame/
 
 
 Stack: Javascript - Ccs -Html
